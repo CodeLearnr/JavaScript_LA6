@@ -1,1 +1,1 @@
-# JavaScript_LA7
+# JavaScript_LA6
